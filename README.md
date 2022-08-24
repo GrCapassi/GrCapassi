@@ -5,3 +5,9 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrCapassi&theme=dracula&hide_border=false&&layout=compact"/>
 ### Tecnologias que eu uso no meu dia a dia 
 -->
+</div>
+<div align="center">
+  
+  ![Snake animation](https://github.com/dsouloficial/dsouloficial/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
